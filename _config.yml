@@ -1,0 +1,28 @@
+name: florescophotography
+favicon: null
+layout_spectrum: 0.4609580694232136
+typography_spectrum: 0.06614237488247454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.47942291642539203
+  lightness: 0.8867555614560843
+  saturation: 0.22117720893584192
+  rhythmicContrast: 0.04991110973060131
+purpose: []
