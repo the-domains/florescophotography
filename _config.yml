@@ -1,6 +1,6 @@
-name: florescophotography
+name: floresco photography
 favicon: null
-layout_spectrum: 0.92373
+layout_spectrum: 0.22174
 typography_spectrum: 0.32864
 title: Floresco Photography
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d7cdd4'
-    - '#000000'
-    - '#6a83b9'
-    - '#004b8f'
-    - '#784711'
+    - '#ebd0c5'
+    - '#5c6ea1'
+    - '#2f2c3c'
+    - '#d7a5b2'
+    - '#090707'
   brandStrength: 0
   lightness: 0.625
   saturation: 0.22117720893584192
